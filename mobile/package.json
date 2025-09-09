@@ -1,0 +1,16 @@
+{
+  "name": "bright_cuts_mobile",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/stack": "^6.3.24",
+    "react-native": "latest",
+    "expo": "latest"
+  }
+}
